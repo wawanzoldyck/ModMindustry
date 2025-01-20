@@ -1,0 +1,20 @@
+name: "Spectre"
+displayName: "Spectre ID"
+author:
+'''
+Dark Zoldyck
+Professor MC
+Raphael
+
+'''
+
+description: 
+'''
+Saya cuma membuat ulang mod ini dari mod-mod lain yang kurang bagus,tapi sayajuga membuat beberapa item dan blok buatan saya sendiri
+'''
+subtitle: "Made In Indonesia"
+version: "v1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
+hideBrowser: false
